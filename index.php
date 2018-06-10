@@ -468,8 +468,7 @@ echo "<script>window.location='http://digital-marketing-guru.net/index-m.html'</
                   <h2><i class="fa fa-paper-plane"></i><span>Email</span></h2>
                   <p><a href="mailto:bensmithdesign@gmail.com"><font color="#999">bensmithdesign@gmail.com</font></a></p>
                   
-                  <!--<p><a href="#">sam@paintersmith.com</a></p>
-                  <p><a href="#">judy@paintersmith.com</a></p>-->
+                  
                 </div>
               </div>
             </div>
